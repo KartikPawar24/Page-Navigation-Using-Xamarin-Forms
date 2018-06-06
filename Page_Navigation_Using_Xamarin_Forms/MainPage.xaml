@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Page_Navigation_Using_Xamarin_Forms"
+             x:Class="Page_Navigation_Using_Xamarin_Forms.MainPage"
+             Title="First Page">
+
+    <StackLayout VerticalOptions="Center"
+                 HorizontalOptions="Center">
+        <Label Text="This is the first page of this application"
+               FontSize="Medium"/>
+
+        <Button Text="Navigate to Second Page"
+                Clicked="Onbtn_Clicked"
+                BackgroundColor="Blue"/>
+
+    </StackLayout>
+    
+</ContentPage>

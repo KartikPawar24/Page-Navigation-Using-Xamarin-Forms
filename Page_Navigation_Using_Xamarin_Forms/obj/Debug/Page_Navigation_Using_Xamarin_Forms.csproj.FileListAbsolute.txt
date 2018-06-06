@@ -1,0 +1,17 @@
+c:\users\asus\source\repos\Page Navigation Using Xamarin Forms\Page Navigation Using Xamarin Forms\Page_Navigation_Using_Xamarin_Forms\bin\Debug\Page_Navigation_Using_Xamarin_Forms.dll
+c:\users\asus\source\repos\Page Navigation Using Xamarin Forms\Page Navigation Using Xamarin Forms\Page_Navigation_Using_Xamarin_Forms\bin\Debug\Page_Navigation_Using_Xamarin_Forms.pdb
+c:\users\asus\source\repos\Page Navigation Using Xamarin Forms\Page Navigation Using Xamarin Forms\Page_Navigation_Using_Xamarin_Forms\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\asus\source\repos\Page Navigation Using Xamarin Forms\Page Navigation Using Xamarin Forms\Page_Navigation_Using_Xamarin_Forms\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\asus\source\repos\Page Navigation Using Xamarin Forms\Page Navigation Using Xamarin Forms\Page_Navigation_Using_Xamarin_Forms\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\asus\source\repos\Page Navigation Using Xamarin Forms\Page Navigation Using Xamarin Forms\Page_Navigation_Using_Xamarin_Forms\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\asus\source\repos\Page Navigation Using Xamarin Forms\Page Navigation Using Xamarin Forms\Page_Navigation_Using_Xamarin_Forms\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\asus\source\repos\Page Navigation Using Xamarin Forms\Page Navigation Using Xamarin Forms\Page_Navigation_Using_Xamarin_Forms\bin\Debug\Xamarin.Forms.Platform.pdb
+c:\users\asus\source\repos\Page Navigation Using Xamarin Forms\Page Navigation Using Xamarin Forms\Page_Navigation_Using_Xamarin_Forms\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\asus\source\repos\Page Navigation Using Xamarin Forms\Page Navigation Using Xamarin Forms\Page_Navigation_Using_Xamarin_Forms\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\asus\source\repos\Page Navigation Using Xamarin Forms\Page Navigation Using Xamarin Forms\Page_Navigation_Using_Xamarin_Forms\obj\Debug\Page_Navigation_Using_Xamarin_Forms.csprojResolveAssemblyReference.cache
+c:\users\asus\source\repos\Page Navigation Using Xamarin Forms\Page Navigation Using Xamarin Forms\Page_Navigation_Using_Xamarin_Forms\obj\Debug\Page_Navigation_Using_Xamarin_Forms.csproj.CoreCompileInputs.cache
+c:\users\asus\source\repos\Page Navigation Using Xamarin Forms\Page Navigation Using Xamarin Forms\Page_Navigation_Using_Xamarin_Forms\obj\Debug\Page_Navigation_Using_Xamarin_Forms.MainPage.xaml.g.cs
+c:\users\asus\source\repos\Page Navigation Using Xamarin Forms\Page Navigation Using Xamarin Forms\Page_Navigation_Using_Xamarin_Forms\obj\Debug\Page_Navigation_Using_Xamarin_Forms.App.xaml.g.cs
+c:\users\asus\source\repos\Page Navigation Using Xamarin Forms\Page Navigation Using Xamarin Forms\Page_Navigation_Using_Xamarin_Forms\obj\Debug\Page_Navigation_Using_Xamarin_Forms.SecondPage.xaml.g.cs
+c:\users\asus\source\repos\Page Navigation Using Xamarin Forms\Page Navigation Using Xamarin Forms\Page_Navigation_Using_Xamarin_Forms\obj\Debug\Page_Navigation_Using_Xamarin_Forms.dll
+c:\users\asus\source\repos\Page Navigation Using Xamarin Forms\Page Navigation Using Xamarin Forms\Page_Navigation_Using_Xamarin_Forms\obj\Debug\Page_Navigation_Using_Xamarin_Forms.pdb
